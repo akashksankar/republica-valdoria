@@ -1,0 +1,6 @@
+{
+  "name": "REPUBLICA: Valdoria Empire Simulator",
+  "description": "A mobile-first grand economic, business, and political empire simulation set in the Republic of Valdoria featuring an elevated God-view strategic map, deterministic macro-economy, and living society.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
